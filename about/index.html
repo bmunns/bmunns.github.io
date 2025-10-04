@@ -9,16 +9,16 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Thoughts on the business of technology and education." />
 <meta property="og:description" content="Thoughts on the business of technology and education." />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
+<link rel="canonical" href="/about/" />
+<meta property="og:url" content="/about/" />
 <meta property="og:site_name" content="Ben Munns" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="About me" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Thoughts on the business of technology and education.","headline":"About me","name":"Ben Munns","url":"http://localhost:4000/about/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Thoughts on the business of technology and education.","headline":"About me","name":"Ben Munns","url":"/about/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Ben Munns" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Ben Munns" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Ben Munns</a><nav class="site-nav">
@@ -43,21 +43,54 @@
   </header>
 
   <div class="post-content">
-    <p>Hey there 👋 My name is Ben Munns.</p>
+    <p>Hey there 👋 I’m Ben!</p>
 
-<p>Professionally, I’m a consultant at Bain - where I focus on our Technology / Growth, Private Equity and Performance Improvement capabilities.</p>
+<p>I’m currently at <a href="https://www.carrara.is/">Carrara</a> - helping startups, VCs and TechCos with special projects around Finance, BizOps and M&amp;A.</p>
 
-<p>Before Bain, I found myself in various roles across the spectrum of ‘the business of technology’ - including in VC/startups, software, technology consulting, IT strategy and public policy. I’ve also been fortunate to live and work in several global technology hubs, including Sydney (current), San Francisco and Dublin.</p>
+<p>Prior to that I was a consultant at Bain - where I focused on Private Equity, Performance Improvement and Analytics. I’ve also found myself in various roles across the spectrum of ‘the business of tech’ - including in VC/startups, software, tech consulting, IT strategy and public policy. I’ve also been fortunate to live and work in several global tech hubs, including San Francisco (current), Sydney, and Dublin.</p>
 
-<p>These days, I learn most the people I work with, running experiments, listening to podcasts, and reading blogs/newsletters in random corners of the internet. Formally, I graduated from UNSW with a BCom (Co-op scholar) (Hons) in Information Systems &amp; Finance (university medal, top of class).</p>
+<p>These days, I learn most from the people I work with, running experiments, listening to podcasts, and reading blogs/newsletters in random corners of the internet. Formally, I graduated from UNSW Sydney with a BCom (Co-op) (Hons) in Information Systems &amp; Finance.</p>
 
-<p>When I’m not at work, I like to be outside (in the ocean, on a trail), reading, playing with new technology, and investing time into relationships that matter to me.</p>
+<p>When I’m not at work, I like to be outside (in the ocean, on a trail), reading, playing with new tech, and investing time into relationships that matter to me!</p>
 
 <p>–</p>
 
-<p>In my career and life, I like to learn, teach, build and play - I started this website as a place to do just that! If you would like to stay connected with what I’m up to, you can leave your email below:</p>
+<p>I’ve started this site to share what I’m learning as an Aussie ex-consultant working in San Francisco and startups – If you’d like to follow along, drop your email below:</p>
 
-<form action="https://formspree.io/f/mzzdnpgj" method="POST">
+<style>
+  .subscribe-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* ensures button sits underneath with spacing */
+    max-width: 100%; /* prevent overflow */
+    box-sizing: border-box;
+  }
+  .subscribe-form input[type="email"] {
+    width: 100%;
+    max-width: 100%;
+    padding: 14px 16px; /* bigger box */
+    font-size: 18px;    /* larger text */
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box; /* include padding in width calculation */
+  }
+  .subscribe-form button[type="submit"] {
+    align-self: flex-start; /* keep to left; remove for full-width */
+    padding: 12px 16px;
+    font-size: 16px;
+    background-color: #007acc; /* blue theme color */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  .subscribe-form button[type="submit"]:hover {
+    background-color: #005a9e; /* darker blue on hover */
+  }
+</style>
+
+<form class="subscribe-form" action="https://formspree.io/f/mzzdnpgj" method="POST">
   <label>
     <input type="email" name="email" placeholder="Type your email..." required="" />
   </label>

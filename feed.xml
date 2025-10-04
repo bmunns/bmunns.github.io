@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-10T16:13:39+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ben Munns</title><subtitle>Thoughts on the business of technology and education. </subtitle><entry><title type="html">A quick start guide for new consultants</title><link href="http://localhost:4000/ac-tips.html" rel="alternate" type="text/html" title="A quick start guide for new consultants" /><published>2025-03-06T19:34:00+11:00</published><updated>2025-03-06T19:34:00+11:00</updated><id>http://localhost:4000/ac-tips</id><content type="html" xml:base="http://localhost:4000/ac-tips.html"><![CDATA[<p><em>Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-04T11:30:29+10:00</updated><id>/feed.xml</id><title type="html">Ben Munns</title><subtitle>Thoughts on the business of technology and education. </subtitle><entry><title type="html">What I learnt at Bain</title><link href="/bain.html" rel="alternate" type="text/html" title="What I learnt at Bain" /><published>2025-08-10T17:22:00+10:00</published><updated>2025-08-10T17:22:00+10:00</updated><id>/bain</id><content type="html" xml:base="/bain.html"><![CDATA[<p>I recently finished up at Bain after four years - what a ride!</p>
+
+<p>I joined for <em>what</em> I could learn and <em>who</em> I could learn from and it delivered on both fronts. I wanted to share a few reflections that immediately struck me (although I’m sure there will be more I appreciate over time).</p>
+<h3 id="-1-how-to-own-problems-and-drive-outcomes---fast"><strong>⚡ 1. How to own problems and drive outcomes - fast!</strong></h3>
+
+<p>A few years at Bain teach you the “core consultant toolkit” - foundational skills on value-driven problem solving, great verbal/written comms, and high quality data analysis and insights.</p>
+
+<p>Most of what you learn is tacit knowledge (so I will need to get creative on how to share - for another write-up!). But the rough habit drilled into you is a practical application of the scientific method to solve business problems (that I think is generally applicable):</p>
+<ul>
+  <li>Be clear on the problem context and key questions to answer</li>
+  <li>For each question, define a hypothesis and what you need to believe for it to be true (“lead with an answer, first” based on what you currently know)</li>
+  <li>Prioritise where to test (<a href="https://chatgpt.com/share/689982b1-36e0-800d-91c6-23d9818bed5a">“be 80/20”</a>) by value, client priorities and/or ability to implement</li>
+  <li>Collect and analyse data, update your hypothesis and share what you’ve learnt (with this same structure)</li>
+  <li><em>… then repeat until you’re confident with the answer or just before the SteerCo starts!</em></li>
+</ul>
+
+<p>What surprised me was that everyone on the team, regardless of role, was following roughly the same steps - all that changed by tenure was the scope, complexity and key stakeholders of the problem you were solving.</p>
+
+<p>We could move fast doing this, but the early focus on executing the basics right and being error free (“zero defect”) also helped with speed. This was not “don’t make a mistake” but rather “set yourself up so that mistakes don’t happen or are caught quickly”.</p>
+
+<p>I did want to focus on my problem solving skills because (a) it is fun (b) if you get good at it, you save time and get to do more of what you care about (c) Bain is a unique place to teach this (based on quantity of reps to practice and quality of people to learn from). I’d like to keep that intersection of fun, high impact and opportunistic learning going if I can!</p>
+
+<p>And I do feel more confident about how to orchestrate cracking a problem - by charting the quickest path and bringing in others where needed (you rarely solve problems alone).</p>
+
+<h3 id="-2-what-investing-in-people-and-culture-looks-like">🌱 <strong>2. What investing in people and culture looks like</strong></h3>
+
+<p>I’m grateful I got the nudge early to study Bain as a business, because I do think it must be one of the best at people development and culture.</p>
+
+<p>The apprenticeship culture is a big feature throughout (because <a href="https://www.henrikkarlsson.xyz/p/apprenticeship-online">you learn quickly when you can copy others</a>). People are willing to take the time to teach, taking teaching seriously, but are also genuinely excited by that part of the job. I saw the best leaders also actively engage in <a href="https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html">the high-return activity of raising aspirations</a> then providing the step-up opportunity and coaching to get there. Whenever the stretch goal was difficult to achieve, they then over-invested in that moment of truth to help out (in the long-run, that was what was most important anyway).</p>
+
+<p>I also enjoyed the focus on developing strengths (vs. focusing only on weaknesses). It is fun to figure out what you’re naturally good at and try turn this into something world class! <a href="https://www.bain.com/insights/how-to-be-an-inspirational-leader-infographic">Inspirational leadership</a> was my favourite expression of this idea (of ~30 leadership qualities, the best leaders only have 3-4 strengths - so go deep on a few areas). Implementing this was also easy (run a quick poll on what each team member’s strengths are) and and high impact (spend ~30-60mins going around the team, shouting out where they demonstrated that strength - an instant dopamine boost!)</p>
+
+<p>You then walk away learning how to <a href="https://benmunns.com/pd-tips.html">setup an effective personal development system</a> that I’m sure could apply to learning most practical skills from others.</p>
+
+<p>The culture outside of the case team was also the strongest I had experienced.  Yes, there are the opt-in extracurriculars that are an “extra 10%” on top of your day job that you can get involved in (which are pretty fun - I particularly enjoyed recruiting and organising internal trainings / social events as a way to meet great people). I was more impressed by <em>how many</em> people would just show up to get involved and hang out. My personal favourite example was seeing ~100 people in Australia join an eSports competition to play Tetris, Mario Kart, FIFA and League of Legends to determine who would represent us in APAC and globally (side note: also a great way for a new starter to meet people during lockdown and discover that FIFA works on a Lenovo X1 Carbon).</p>
+
+<h3 id="-3-what-gives-me-energy-and-how-important-that-is">🔋 <strong>3. What gives me energy (and how important that is)</strong></h3>
+
+<p>Knowing where I got energy from on the job made it significantly easier and more inspiring to work harder (and there were plenty of opportunities to do that!).</p>
+
+<p>From comparing different case experiences I felt my three main sources of energy (that evolved over time) were:</p>
+<ul>
+  <li>Personal development: What was I (and those around me) learning?</li>
+  <li>People: Who was I learning from and spending time with?</li>
+  <li>Problems: How were we making an impact?</li>
+</ul>
+
+<p>Almost every case had two elements (sometimes with reframing!), but when I hit a case with all three it felt like play.</p>
+
+<p>The best tips on energy management I read came from an internal blog by a Senior Partner (another great way to share tacit knowledge). One was recognising that energy management was going to be my problem, not Bain’s (or any other future workspace), so jump on it early. Another was that you need to start by having a strong force outside of work that can pull you away. For me, that was relationships I cared deeply about, football and exercise in the morning (to control how I started my day).</p>
+
+<p>I found it just as helpful to know where my limit is (for the occasions where work was pretty busy). This usually just meant sleep was meaningfully, consistently impacted and the trade-off with energy sources wasn’t quite there. But they also rarely lasted too long - the beauty of project based work!</p>
+
+<h3 id="-4-an-initial-view-of-how-private-equity-works">💼 <strong>4. An initial view of how Private Equity works</strong></h3>
+
+<p>Most of my time at Bain was tied to Private Equity - the large scale transformation of PE-owned companies and working on commercial due diligences with PE firms directly.</p>
+
+<p>I only scratched the surface, but one learning was how to write a basic investment thesis:</p>
+<ul>
+  <li>Business definition: What does this company do, exactly? <em>This is the most important part</em></li>
+  <li>Market: How attractive (size, growth) is the market they play in?</li>
+  <li>Competitive position: How does this company differ vs. peers?</li>
+  <li>Value creation: How can you further improve the performance / current trajectory?</li>
+  <li><em>… and depending on the company - Team is also quite important!</em></li>
+</ul>
+
+<p>Another learning was that <em>every</em> business is interesting. They are all market leaders (in whatever niche they have defined). Many of them you have never heard of.</p>
+
+<p>Overall, I found it useful to try an “investor” hat to complement the “advisor” hat you wear in consulting and the “operator” hat that that I’m excited to wear next.</p>
+
+<h3 id="-parting-thoughts">💬 <strong>Parting thoughts</strong></h3>
+
+<p>I strongly believe my Bain experience was only possible because of how amazing everyone was at <em>leaning in</em> (to create opportunities, to coach others, to provide support in moments of truth, and to connection).</p>
+
+<p>Thanks to every mentor (formal, informal), case team, client and friend who taught me so much!</p>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[I recently finished up at Bain after four years - what a ride!]]></summary></entry><entry><title type="html">A quick start guide for new consultants</title><link href="/ac-tips.html" rel="alternate" type="text/html" title="A quick start guide for new consultants" /><published>2025-03-06T19:34:00+11:00</published><updated>2025-03-06T19:34:00+11:00</updated><id>/ac-tips</id><content type="html" xml:base="/ac-tips.html"><![CDATA[<p><em>Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.</em></p>
 
 <p><em>Although there is a strong consulting context throughout this advice, I do think there are some general principles applicable to anyone starting a new (individual contributor-type) role.</em></p>
 
@@ -147,7 +221,7 @@
 
 <p>Work also offers plenty of social events early on - take advantage of them! They are a great way to spend time together, and as you get busier, you will find you naturally have fewer opportunities to join.</p>
 
-<p>Don’t overcomplicate it too much more than that! It should be fun and pretty natural.</p>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.]]></summary></entry><entry><title type="html">How to present in collaborative sessions</title><link href="http://localhost:4000/presentation-tips.html" rel="alternate" type="text/html" title="How to present in collaborative sessions" /><published>2024-08-09T09:05:00+10:00</published><updated>2024-08-09T09:05:00+10:00</updated><id>http://localhost:4000/presentation-tips</id><content type="html" xml:base="http://localhost:4000/presentation-tips.html"><![CDATA[<p><em>Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).</em></p>
+<p>Don’t overcomplicate it too much more than that! It should be fun and pretty natural.</p>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.]]></summary></entry><entry><title type="html">How to present in collaborative sessions</title><link href="/presentation-tips.html" rel="alternate" type="text/html" title="How to present in collaborative sessions" /><published>2024-08-09T09:05:00+10:00</published><updated>2024-08-09T09:05:00+10:00</updated><id>/presentation-tips</id><content type="html" xml:base="/presentation-tips.html"><![CDATA[<p><em>Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).</em></p>
 
 <p><em>The notes below are some tips on how to get the most out of these sessions, but I do think there are some general principles here that are helpful for any non-TED style presentation you need to do.</em></p>
 
@@ -211,7 +285,7 @@
   <li><strong>It’s a tactical way to own work end-to-end.</strong> Ultimately, this is the aim for the AC years - to increasingly own as big a piece of the problem as possible</li>
   <li><strong>It gives you skin in the game (since you own it).</strong> You are forced to truly think through your work, as you are the one accountable for the clarity in thinking, answering any follow up questions, etc.  (vs. palming it off to your supervisor to handle)</li>
   <li><strong>Will come by nailing the points above!</strong> Default to presenting slides that you make (particularly internally) - if it’s not happening with your supervisor, it is probably because you haven’t demonstrated the points above (particularly preparing beforehand)</li>
-</ul>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).]]></summary></entry><entry><title type="html">How I approach personal development (at Bain)</title><link href="http://localhost:4000/pd-tips.html" rel="alternate" type="text/html" title="How I approach personal development (at Bain)" /><published>2023-08-06T19:47:00+10:00</published><updated>2023-08-06T19:47:00+10:00</updated><id>http://localhost:4000/pd-tips</id><content type="html" xml:base="http://localhost:4000/pd-tips.html"><![CDATA[<p><em>Readers note / warning: This piece has quite a few Bain specific terms that I have not cleaned up yet. Reach out if you need clarification!</em></p>
+</ul>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).]]></summary></entry><entry><title type="html">How I approach personal development (at Bain)</title><link href="/pd-tips.html" rel="alternate" type="text/html" title="How I approach personal development (at Bain)" /><published>2023-08-06T19:47:00+10:00</published><updated>2023-08-06T19:47:00+10:00</updated><id>/pd-tips</id><content type="html" xml:base="/pd-tips.html"><![CDATA[<p><em>Readers note / warning: This piece has quite a few Bain specific terms that I have not cleaned up yet. Reach out if you need clarification!</em></p>
 
 <h1 id="-how-to-create-a-personal-development-pd-plan">📄 <strong>How to create a personal development (PD) plan</strong></h1>
 
