@@ -3,22 +3,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Ben Munns | Thoughts on the business of technology and education.</title>
+<title>Ben Munns | Thoughts on the business of tech and education.</title>
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="Ben Munns" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Thoughts on the business of technology and education." />
-<meta property="og:description" content="Thoughts on the business of technology and education." />
-<link rel="canonical" href="/" />
-<meta property="og:url" content="/" />
+<meta name="description" content="Thoughts on the business of tech and education." />
+<meta property="og:description" content="Thoughts on the business of tech and education." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
 <meta property="og:site_name" content="Ben Munns" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Ben Munns" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Thoughts on the business of technology and education.","headline":"Ben Munns","name":"Ben Munns","url":"/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Thoughts on the business of tech and education.","headline":"Ben Munns","name":"Ben Munns","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Ben Munns" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Ben Munns" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Ben Munns</a><nav class="site-nav">
@@ -36,7 +36,43 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
+        <div class="home"><style>
+.rss-subscribe {
+  display: none;
+}
+</style>
+
+<div class="home-after-posts" style="border-top: 1px solid #e8e8e8; padding-top: 2rem; margin-top: 3rem;">
+  <div style="max-width: 400px;">
+    <p style="margin: 0 0 1rem 0; color: #666; font-size: 14px; line-height: 1.4;">
+      Get notified when I publish new posts
+    </p>
+    
+    <form action="https://formspree.io/f/mzzdnpgj" method="POST" style="display: flex; gap: 8px; align-items: stretch;">
+      <input type="email" name="email" placeholder="your@email.com" required="" style="flex: 1; padding: 8px 12px; border: 1px solid #e8e8e8; border-radius: 4px; font-size: 14px; outline: none; transition: border-color 0.15s ease;" onfocus="this.style.borderColor='#999'" onblur="this.style.borderColor='#e8e8e8'" />
+      <input type="hidden" name="_subject" value="Subscription - Home page" />
+      <button type="submit" style="padding: 8px 16px; background: #000; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: 500; transition: background-color 0.15s ease;" onmouseover="this.style.backgroundColor='#333'" onmouseout="this.style.backgroundColor='#000'">
+        Subscribe
+      </button>
+    </form>
+  </div>
+</div>
+
+<script>
+// Move the signup form after the post list
+document.addEventListener('DOMContentLoaded', function() {
+  const postList = document.querySelector('.post-list');
+  const rssSubscribe = document.querySelector('.rss-subscribe');
+  const signupForm = document.querySelector('.home-after-posts');
+  
+  if (postList && signupForm) {
+    // Insert after RSS subscribe if it exists, otherwise after post list
+    const insertAfter = rssSubscribe || postList;
+    insertAfter.parentNode.insertBefore(signupForm, insertAfter.nextSibling);
+  }
+});
+</script>
+
 <h2 class="post-list-heading">Posts</h2>
     <ul class="post-list"><li><span class="post-meta">Aug 10, 2025</span>
         <h3>
@@ -80,7 +116,7 @@
 </div>
 
       <div class="footer-col footer-col-3">
-        <p>Thoughts on the business of technology and education. </p>
+        <p>Thoughts on the business of tech and education. </p>
       </div>
     </div>
 
