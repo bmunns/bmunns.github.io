@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-05T19:17:39+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ben Munns</title><subtitle>Thoughts on the business of tech and education. </subtitle><entry><title type="html">What I learnt at Bain</title><link href="http://localhost:4000/bain.html" rel="alternate" type="text/html" title="What I learnt at Bain" /><published>2025-08-10T17:22:00+10:00</published><updated>2025-08-10T17:22:00+10:00</updated><id>http://localhost:4000/bain</id><content type="html" xml:base="http://localhost:4000/bain.html"><![CDATA[<p>I recently finished up at Bain after four years - what a ride!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-09T22:34:01+11:00</updated><id>/feed.xml</id><title type="html">Ben Munns</title><subtitle>Thoughts on the business of technology and education</subtitle><author><name>Ben Munns</name><email> </email></author><entry><title type="html">What I learnt at Bain</title><link href="/consulting/2025/08/10/bain.html" rel="alternate" type="text/html" title="What I learnt at Bain" /><published>2025-08-10T17:22:00+10:00</published><updated>2025-08-10T17:22:00+10:00</updated><id>/consulting/2025/08/10/bain</id><content type="html" xml:base="/consulting/2025/08/10/bain.html"><![CDATA[<p>I recently finished up at Bain after four years - what a ride!</p>
 
 <p>I joined for <em>what</em> I could learn and <em>who</em> I could learn from and it delivered on both fronts. I wanted to share a few reflections that immediately struck me (although I’m sure there will be more I appreciate over time).</p>
 <h3 id="-1-how-to-own-problems-and-drive-outcomes---fast"><strong>⚡ 1. How to own problems and drive outcomes - fast!</strong></h3>
@@ -72,7 +72,7 @@
 
 <p>I strongly believe my Bain experience was only possible because of how amazing everyone was at <em>leaning in</em> (to create opportunities, to coach others, to provide support in moments of truth, and to connection).</p>
 
-<p>Thanks to every mentor (formal, informal), case team, client and friend who taught me so much!</p>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[I recently finished up at Bain after four years - what a ride!]]></summary></entry><entry><title type="html">A quick start guide for new consultants</title><link href="http://localhost:4000/ac-tips.html" rel="alternate" type="text/html" title="A quick start guide for new consultants" /><published>2025-03-06T19:34:00+11:00</published><updated>2025-03-06T19:34:00+11:00</updated><id>http://localhost:4000/ac-tips</id><content type="html" xml:base="http://localhost:4000/ac-tips.html"><![CDATA[<p><em>Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.</em></p>
+<p>Thanks to every mentor (formal, informal), case team, client and friend who taught me so much!</p>]]></content><author><name>Ben Munns</name><email> </email></author><category term="consulting" /><summary type="html"><![CDATA[I recently finished up at Bain after four years - what a ride!]]></summary></entry><entry><title type="html">A quick start guide for new consultants</title><link href="/consulting/2025/03/06/ac-tips.html" rel="alternate" type="text/html" title="A quick start guide for new consultants" /><published>2025-03-06T19:34:00+11:00</published><updated>2025-03-06T19:34:00+11:00</updated><id>/consulting/2025/03/06/ac-tips</id><content type="html" xml:base="/consulting/2025/03/06/ac-tips.html"><![CDATA[<p><em>Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.</em></p>
 
 <p><em>Although there is a strong consulting context throughout this advice, I do think there are some general principles applicable to anyone starting a new (individual contributor-type) role.</em></p>
 
@@ -93,7 +93,7 @@
   <li>Invest early in those you started with</li>
 </ol>
 
-<h1 id="-live-the-zero-defect-mindset">⚙ <strong>Live the ‘zero defect’ mindset</strong></h1>
+<h3 id="-live-the-zero-defect-mindset">⚙ <strong>Live the ‘zero defect’ mindset</strong></h3>
 
 <p>Being ‘zero defect’ does not mean that you never make a mistake (otherwise I’d be long gone!). Instead, it’s about how you set up your process to avoid / minimise mistakes and what your attitude is when you catch a mistake. Zero defect is also the perfect example of something that is ‘table stakes’ (e.g. I would never have it as a “goal”), so the quicker you can adopt the mindset the better.</p>
 
@@ -115,7 +115,7 @@
 
 <p>When you do update your supervisor, the best thing you can do is lay out the facts clearly, including what has happened, how the mistake changes the answer, and what the solution might be (if possible - it is honestly fine if you need their help).</p>
 
-<h1 id="-buy-yourself-more-time-to-do-great-work">⌚ <strong>Buy yourself more time (to do great work)</strong></h1>
+<h3 id="-buy-yourself-more-time-to-do-great-work">⌚ <strong>Buy yourself more time (to do great work)</strong></h3>
 
 <p>People love to work with others that reliably deliver when they say they will. One trick to consistently do this is to buy yourself extra time by always giving yourself a buffer (more than you initially think) and frequently, proactively keeping people in the loop (so they know you are tracking along nicely). Being proactive here is also going to help you manage your own balance between all of life’s commitments!</p>
 
@@ -135,7 +135,7 @@
 
 <p>The golden rule is <em>the longer the time between check-ins, the higher the expectation of the work.</em> Frequent check-ins make life easier for everyone.</p>
 
-<h1 id="-dont-just-do---present">📣 <strong>Don’t just do - Present!</strong></h1>
+<h3 id="-dont-just-do---present">📣 <strong>Don’t just do - Present!</strong></h3>
 
 <p>I <em>strongly</em> believe all ACs should aim to present their work as soon as possible. The AC years are all about increasingly owning as much of your work end-to-end as possible - presenting is the simplest way to force this. You also don’t need to present to the client or partner to do this because the process of preparation and facilitation are remarkably is always similar. Having said that, it is <em>more fun</em> to present to a client or partner, and so to get that opportunity I would recommend investing time in preparation and being answer-led.</p>
 
@@ -153,7 +153,7 @@
 
 <p><em><code class="language-plaintext highlighter-rouge">Note</code>: I wrote more about how to prepare and present well here: <a href="https://www.benmunns.com/presentation-tips.html">🔊 How to present in collaborative sessions</a></em></p>
 
-<h1 id="-build-energy-in-yourself-and-others">⚡ <strong>Build energy in yourself and others</strong></h1>
+<h3 id="-build-energy-in-yourself-and-others">⚡ <strong>Build energy in yourself and others</strong></h3>
 
 <p>Energy is contagious. The way you show up each day affects not just your own experience but the entire team. And the best part? It makes the job more fun for everyone, including yourself!</p>
 
@@ -171,7 +171,7 @@
 
 <p>Small actions (or 1%ers) consistently repeated over time compound into a significant impact on the team experience. Whether that is booking a room for important team calls, setting up the Zoom early or grabbing lunch. No one will ask you or expect you to do it, but it will be noticed if you do.</p>
 
-<h1 id="-take-charge-of-your-personal-development">📈 <strong>Take charge of your personal development</strong></h1>
+<h3 id="-take-charge-of-your-personal-development">📈 <strong>Take charge of your personal development</strong></h3>
 
 <p>Although I left this last, not taking charge of your personal development (PD) could be the dumbest mistake here (as it relates to your entire career, not just a specific project team). You can materially accelerate the quality and velocity of what you learn from those around you by being intentional about what you want to learn and getting your team invested (I mostly learn from the people I work with these days).</p>
 
@@ -201,7 +201,7 @@
 
 <p><em><code class="language-plaintext highlighter-rouge">Note:</code> I wrote more about PD here: <a href="https://www.benmunns.com/pd-tips.html">🚀 How I approach personal development (at Bain)</a></em></p>
 
-<h1 id="-invest-early-in-those-you-started-with">🤝 <strong>Invest early in those you started with</strong></h1>
+<h3 id="-invest-early-in-those-you-started-with">🤝 <strong>Invest early in those you started with</strong></h3>
 
 <p>When I started at Bain, a few others in my start class and I had a lighter workload in our first week. Instead of doing random online training modules, we caught up every day for a long lunch, just to chat - that turned out to be by far and away the best use of my time, because:</p>
 
@@ -221,7 +221,7 @@
 
 <p>Work also offers plenty of social events early on - take advantage of them! They are a great way to spend time together, and as you get busier, you will find you naturally have fewer opportunities to join.</p>
 
-<p>Don’t overcomplicate it too much more than that! It should be fun and pretty natural.</p>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.]]></summary></entry><entry><title type="html">How to present in collaborative sessions</title><link href="http://localhost:4000/presentation-tips.html" rel="alternate" type="text/html" title="How to present in collaborative sessions" /><published>2024-08-09T09:05:00+10:00</published><updated>2024-08-09T09:05:00+10:00</updated><id>http://localhost:4000/presentation-tips</id><content type="html" xml:base="http://localhost:4000/presentation-tips.html"><![CDATA[<p><em>Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).</em></p>
+<p>Don’t overcomplicate it too much more than that! It should be fun and pretty natural.</p>]]></content><author><name>Ben Munns</name><email> </email></author><category term="consulting" /><summary type="html"><![CDATA[Context: At Bain, one of my most energising “extra 10%” responsibilities was sharing my advice on what to focus on when you start. Formally, this is a training session for new starter “ACs” (“associate consultants” aka graduates) - These are my speaker notes from that training.]]></summary></entry><entry><title type="html">How to present in collaborative sessions</title><link href="/consulting/2024/08/09/presentation-tips.html" rel="alternate" type="text/html" title="How to present in collaborative sessions" /><published>2024-08-09T09:05:00+10:00</published><updated>2024-08-09T09:05:00+10:00</updated><id>/consulting/2024/08/09/presentation-tips</id><content type="html" xml:base="/consulting/2024/08/09/presentation-tips.html"><![CDATA[<p><em>Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).</em></p>
 
 <p><em>The notes below are some tips on how to get the most out of these sessions, but I do think there are some general principles here that are helpful for any non-TED style presentation you need to do.</em></p>
 
@@ -236,7 +236,7 @@
 
 <p>Ultimately I think it comes down to two main areas - preparing well, and getting in the reps</p>
 
-<h1 id="-prepare-well">✍ <strong>Prepare well</strong></h1>
+<h2 id="-prepare-well">✍ <strong>Prepare well</strong></h2>
 
 <h4 id="-block-even-more-time-to-prepare">⏳ <strong>Block (even more) time to prepare</strong></h4>
 
@@ -262,7 +262,7 @@
   <li><strong>You will learn to use it on the fly (eventually)</strong>. But for now you use it to help with your preparation</li>
 </ul>
 
-<h1 id="-get-in-the-reps">⚡ <strong>Get in the reps</strong></h1>
+<h2 id="-get-in-the-reps">⚡ <strong>Get in the reps</strong></h2>
 
 <h4 id="-talk-even-more-loudly">📣 <strong>Talk (even more) loudly!</strong></h4>
 
@@ -285,9 +285,9 @@
   <li><strong>It’s a tactical way to own work end-to-end.</strong> Ultimately, this is the aim for the AC years - to increasingly own as big a piece of the problem as possible</li>
   <li><strong>It gives you skin in the game (since you own it).</strong> You are forced to truly think through your work, as you are the one accountable for the clarity in thinking, answering any follow up questions, etc.  (vs. palming it off to your supervisor to handle)</li>
   <li><strong>Will come by nailing the points above!</strong> Default to presenting slides that you make (particularly internally) - if it’s not happening with your supervisor, it is probably because you haven’t demonstrated the points above (particularly preparing beforehand)</li>
-</ul>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).]]></summary></entry><entry><title type="html">How I approach personal development (at Bain)</title><link href="http://localhost:4000/pd-tips.html" rel="alternate" type="text/html" title="How I approach personal development (at Bain)" /><published>2023-08-06T19:47:00+10:00</published><updated>2023-08-06T19:47:00+10:00</updated><id>http://localhost:4000/pd-tips</id><content type="html" xml:base="http://localhost:4000/pd-tips.html"><![CDATA[<p><em>Readers note / warning: This piece has quite a few Bain specific terms that I have not cleaned up yet. Reach out if you need clarification!</em></p>
+</ul>]]></content><author><name>Ben Munns</name><email> </email></author><category term="consulting" /><summary type="html"><![CDATA[Context: A core component to the Bain “manufacturing” process for producing an answer are “content sessions” between the day-to-day working team and the partner teams who oversee multiple cases. The purpose of these sessions are to get the partners expertise to shape the overall recommendation (it never has been 22 year olds making the call!).]]></summary></entry><entry><title type="html">How I approach personal development (at Bain)</title><link href="/consulting/2023/08/06/pd-tips.html" rel="alternate" type="text/html" title="How I approach personal development (at Bain)" /><published>2023-08-06T19:47:00+10:00</published><updated>2023-08-06T19:47:00+10:00</updated><id>/consulting/2023/08/06/pd-tips</id><content type="html" xml:base="/consulting/2023/08/06/pd-tips.html"><![CDATA[<p><em>Readers note / warning: This piece has quite a few Bain specific terms that I have not cleaned up yet. Reach out if you need clarification!</em></p>
 
-<h1 id="-how-to-create-a-personal-development-pd-plan">📄 <strong>How to create a personal development (PD) plan</strong></h1>
+<h3 id="-how-to-create-a-personal-development-pd-plan">📄 <strong>How to create a personal development (PD) plan</strong></h3>
 
 <ul>
   <li>The purpose of a PD plan is to (1) create a <strong>single spot to track</strong> all your PD and (2) have a ready-to-share asset to <strong>communicate your goals</strong> with anyone you work with</li>
@@ -321,7 +321,7 @@
 
 <p><em><code class="language-plaintext highlighter-rouge">Note:</code> Link to both of these coming soon, feel free to reach out for a copy!</em></p>
 
-<h1 id="-how-to-approach-pd-conversations-on-the-case-team">📣 <strong>How to approach PD conversations (on the case team)</strong></h1>
+<h3 id="-how-to-approach-pd-conversations-on-the-case-team">📣 <strong>How to approach PD conversations (on the case team)</strong></h3>
 
 <ul>
   <li>Set up recurring PD chats with everyone on your case team
@@ -339,4 +339,4 @@
       <li>The rule of thumb is that your supervisor ( / SMAP / mentor) should feel scared if they don’t come as prepared as you are to your PD conversations (because if you don’t prepare, then most will wing it).</li>
     </ul>
   </li>
-</ul>]]></content><author><name></name></author><category term="consulting" /><summary type="html"><![CDATA[Readers note / warning: This piece has quite a few Bain specific terms that I have not cleaned up yet. Reach out if you need clarification!]]></summary></entry></feed>
+</ul>]]></content><author><name>Ben Munns</name><email> </email></author><category term="consulting" /><summary type="html"><![CDATA[Readers note / warning: This piece has quite a few Bain specific terms that I have not cleaned up yet. Reach out if you need clarification!]]></summary></entry></feed>
